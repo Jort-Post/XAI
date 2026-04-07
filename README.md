@@ -6,6 +6,7 @@ Ensure you have Python 3.8+ installed. You can install the required dependencies
 
 ````bash
 pip install torch captum scikit-learn matplotlib pandas numpy
+````
 
 Next, simply run all the cells in the notebook. Training the LSTM should only take roughly 30-60 minutes depending on your hardware. The last cells contain the code for the explainable methods and their plots.
 
